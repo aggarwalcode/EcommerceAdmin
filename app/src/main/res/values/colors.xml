@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ecaa53</color>
+    <color name="colorPrimaryDark">#ac7328</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccentDark">#fde97511</color>
+    <color name="text_color">#7e7d7d</color>
+    <color name="green_text">#0dc93c</color>
+    <color name="background_tr_green">#e7ffffff</color>
+    <color name="white">#fff</color>
+    <color name="actionbarcolor">#FF8E8E8E</color>
+</resources>
